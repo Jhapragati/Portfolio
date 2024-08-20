@@ -53,7 +53,7 @@
     height: 40vh;
   }
   #profile {
-    height: 83vh;
+    height: 70vh;
     margin-bottom: 0;
   }
   article {
@@ -62,6 +62,10 @@
   footer nav {
     height: fit-content;
     margin-bottom: 2rem;
+  }
+
+  .title-about{
+    margin-top: 35vh;
   }
   .about-containers,
   .contact-info-upper-container,
@@ -87,8 +91,7 @@
     text-align: center;
   }
   .section__pic-container {
-    width: auto;
-    height: 46vw;
+    /* height: 46vw; */
     justify-content: center;
   }
   .section__text__p2 {
